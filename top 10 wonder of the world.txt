@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wonders of the World</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Wonders of the World</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Wonder</th>
+            <th>Location</th>
+            <th>Type</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><h2>1 Great Pyramid of Giza</h2> </td>
+            <td>Giza, Egypt</td>
+            <td>Ancient Wonder</td>
+        </tr>
+        <tr>
+            <td><h2>2 Hanging Gardens of Babylon</h2></td>
+            <td>Babylon, Iraq</td>
+            <td>Ancient Wonder</td>
+        </tr>
+        <tr>
+            <td><h2>3 Statue of Zeus at Olympia</h2></td>
+            <td>Olympia, Greece</td>
+            <td>Ancient Wonder</td>
+        </tr>
+        <tr>
+            <td><h2>4 Temple of Artemis at Ephesus</h2></td>
+            <td>Ephesus, Turkey</td>
+            <td>Ancient Wonder</td>
+        </tr>
+        <tr>
+            <td><h2>5 Mausoleum at Halicarnassus</h2></td>
+            <td>Halicarnassus, Turkey</td>
+            <td>Ancient Wonder</td>
+        </tr>
+        <tr>
+            <td><h2>6 Colossus of Rhodes</h2></td>
+            <td>Rhodes, Greece</td>
+            <td>Ancient Wonder</td>
+        </tr>
+        <tr>
+            <td><h2>7 ighthouse of Alexandria</h2></td>
+            <td>Alexandria, Egypt</td>
+            <td>Ancient Wonder</td>
+        </tr>
+        <tr>
+            <td><h2>8 Petra, Jordan</h2></td>
+            <td>Petra, Jordan</td>
+            <td>UNESCO World Heritage</td>
+        </tr>
+        <tr>
+            <td><h2>9 Machu Picchu</h2></td>
+            <td>Cusco Region, Peru</td>
+            <td>UNESCO World Heritage</td>
+        </tr>
+<td><h2>10 TOWER OF PISA</h2></td>
+<td>PISA,ITALY</td>
+<td>Ancient Wonder</td>
+
+
+    </tbody>
+</table>
+
+</body>
+</html>
